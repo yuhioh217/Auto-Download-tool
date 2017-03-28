@@ -1,0 +1,16 @@
+{
+	"name" : "auto-download-tool",
+	"version" : "0.0.1",
+	"description" : "Auto tool for releasing FW",
+	"dependencies" : {
+		"string"  : "^3.3.3",
+		"mkdirps" : "^0.0.0",
+		"fs-extra": "^2.1.2",
+		"tar-fs"  : "^1.15.2",
+		"ftp"     : "^0.3.10",
+		"async"   : "^2.1.5",
+		"ssh2-sftp-client" : "^1.0.5"
+	},
+	"author" : "Jason YI",
+	"license" : "MIT"
+}
