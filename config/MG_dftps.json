@@ -1,0 +1,13 @@
+{
+	//test config
+	/*"ftpsite":"54.68.189.167",
+	"username":"Wistron_SX7",
+	"password":"^FbdULy4`'t7Nx;",
+	"vport":"990",
+	"basic_path":"/WISTRON_MTK_VIA/"*/
+	"ftpsite":"",
+	"username":"",
+	"password":"",
+	"vport":"",
+	"basic_path":""
+}
