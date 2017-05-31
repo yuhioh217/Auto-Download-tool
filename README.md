@@ -1,19 +1,14 @@
-Koa2-starter
+Auto download tool
 =================
 
-Simple Koa2 example by Wesley Tsai.
+Create by Jason YI
 
 Features
 -
 
 * Use koa2
+* Use vue.js
 
-Howto
--
-
-
-'npm install' to install the dependencies.
-'npm run start' to run the koa2 service with nodemon.
 
 License
 -
@@ -21,4 +16,4 @@ Licensed under the MIT License
 
 Authors
 -
-Copyright(c) 2017 Wesley Tsai<<wesleyboy42@gmail.com>>
+Copyright(c) 2017 Jason_YI (yuhioh217@gmail.com)
